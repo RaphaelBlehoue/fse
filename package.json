@@ -25,7 +25,7 @@
     "copy-webpack-plugin": "^4.5.2",
     "dropzone": "^5.4.0",
     "jquery": "1.12.4",
-    "jquery-validation": "^1.17.0",
+    "jquery-validation": "^1.19.4",
     "less": "^3.0.4",
     "less-loader": "^4.1.0",
     "node-sass": "^4.9.0",
